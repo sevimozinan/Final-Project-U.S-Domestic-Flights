@@ -2,4 +2,5 @@
 I did this project for "IBM-Data Visualization With Python Course" in coursera. I created a dashboard using plotly and dash.
 
 
-![ScreenShot](https://{www.hizliresim.com/r4n6wm8})
+ ![Screenshot](http:// https://imgur.com/1tw8133/to/img.png)
+ 
