@@ -3,4 +3,3 @@ I did this project for "IBM-Data Visualization With Python Course" in coursera. 
 
 
 ![alt text](https://www.hizliresim.com/r4n6wm8/to/img.png)
-https://www.hizliresim.com/r4n6wm8
