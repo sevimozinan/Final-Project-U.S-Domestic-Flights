@@ -11,9 +11,9 @@ When we select input, the corresponding reports are provided. We can have two re
 
 It has a treemap. (Number of flights flying to each state from each reporting airline), pie chart(Percentage of diverted airport landings per reporting airline), usa map(Number of flights flying from each state), bar chart(Number of flights under different cancellation categories), line chart(Average flight time by reporting airline)
 
-![Imgur Image](https://imgur.com/NLVknRy)
+![Imgur Image](https://imgur.com/NLVknRy.jpg)
 
-![Imgur Image](https://imgur.com/BlTJs5h)
+![Imgur Image](https://imgur.com/BlTJs5h.jpg)
 
-![Imgur Image](https://imgur.com/t8QRNxZ)
+![Imgur Image](https://imgur.com/t8QRNxZ.jpg)
 
