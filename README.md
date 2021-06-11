@@ -3,6 +3,6 @@ I did this project for "IBM-Data Visualization With Python Course" in coursera. 
 
 Initially the dashboard will be empty
 
-![Imgur Image] (https://imgur.com/xCKq47a.jpg)
+![Imgur Image](https://imgur.com/xCKq47a.jpg)
 
 
