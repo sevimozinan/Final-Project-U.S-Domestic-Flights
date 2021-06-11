@@ -1,4 +1,4 @@
-# FINAL-PROJECT-U.S-Domestic-Flights
+# Final Project - U.S Domestic Flights
 
 I did this project for IBM - Data Visualization With Python Course. I created a dashboard using plotly and dash.
 
@@ -30,18 +30,4 @@ It contains line charts showing average carrier, weather, NAS, security, late ai
 
 ![Imgur Image](https://imgur.com/BhaAZeG.jpg)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Thank You!!
